@@ -32,7 +32,7 @@ Fin_Agentic_Chatbot/
 ├── pyproject.toml
 ├── docker-compose.yml
 │
-├── frontend/                     # React / Angular UI
+├── frontend/                     # Streamlit
 │   ├── src/
 │   ├── public/
 │   └── package.json
@@ -82,7 +82,7 @@ Fin_Agentic_Chatbot/
 
 | Layer | Technology |
 |--------|------------|
-| Frontend | React / Angular |
+| Frontend | Streamlit |
 | Backend | FastAPI |
 | Agent Framework | LangGraph |
 | LLM Framework | LangChain |
